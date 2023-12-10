@@ -1,0 +1,710 @@
+﻿  Analyse.c
+C:\comp\compcomp\compcomp\SymTab.h(39,5): error C2061: 구문 오류: 식별자 'TreeNode'
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(42,1): error C2059: 구문 오류: '}'
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2081: 'TreeNode': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,60): error C2059: 구문 오류: '형식'
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,71): error C2059: 구문 오류: ')'
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2059: 구문 오류: ';'
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,30): error C2059: 구문 오류: '<parameter-list>'
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(123,2): warning C4013: 'insertSymbol'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(131,14): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(131,14): error C2146: 구문 오류: ';'이(가) 'luSymbol' 식별자 앞에 없습니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(131,22): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(190,13): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(190,15): warning C4013: 'lookupSymbol'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(191,17): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(191,17): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(205,39): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(205,41): error C2223: '->declaration' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(260,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Analyse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.c(60,6): error C2084: 'void buildSymbolTable(TreeNode *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(58,6):
+  'buildSymbolTable'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(89,6): error C2084: 'void typeCheck(TreeNode *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(87,6):
+  'typeCheck'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(100,13): error C2084: 'void declarePredefines(void)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(98,13):
+  'declarePredefines'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(130,13): error C2084: 'void buildSymbolTable2(TreeNode *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(128,13):
+  'buildSymbolTable2'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(133,14): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\Analyse.c(133,14): error C2146: 구문 오류: ';'이(가) 'luSymbol' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\Analyse.c(133,22): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\Analyse.c(192,13): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\Analyse.c(193,17): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\Analyse.c(193,17): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\Analyse.c(207,39): error C2065: 'luSymbol': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\Analyse.c(207,41): error C2223: '->declaration' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\Analyse.c(252,13): error C2084: 'void drawRuler(FILE *,char *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(250,13):
+  'drawRuler'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(262,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\comp\compcomp\compcomp\Analyse.c(274,13): error C2084: 'void flagSemanticError(char *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(272,13):
+  'flagSemanticError'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(282,13): error C2084: 'void traverse(TreeNode *,void (__cdecl *)(TreeNode *),void (__cdecl *)(TreeNode *))' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(280,13):
+  'traverse'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(310,12): error C2084: 'int checkFormalAgainstActualParms(TreeNode *,TreeNode *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(308,12):
+  'checkFormalAgainstActualParms'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(335,13): error C2084: 'void checkNode(TreeNode *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(333,13):
+  'checkNode'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(576,6): error C2084: 'void markGlobals(TreeNode *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(574,6):
+  'markGlobals'의 이전 정의를 참조하십시오.
+  
+C:\comp\compcomp\compcomp\Analyse.c(606,13): error C2084: 'void nullProc(TreeNode *)' 함수에 이미 본문이 있습니다.
+  C:\comp\compcomp\compcomp\Analyse.h(604,13):
+  'nullProc'의 이전 정의를 참조하십시오.
+  
+  Cgen.c
+C:\comp\compcomp\compcomp\SymTab.h(39,5): error C2061: 구문 오류: 식별자 'TreeNode'
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(42,1): error C2059: 구문 오류: '}'
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2081: 'TreeNode': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,60): error C2059: 구문 오류: '형식'
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,71): error C2059: 구문 오류: ')'
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2059: 구문 오류: ';'
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,30): error C2059: 구문 오류: '<parameter-list>'
+  (소스 파일 'Cgen.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Cgen.c(470,2): warning C4013: 'assert'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Main.c
+C:\comp\compcomp\compcomp\SymTab.h(39,5): error C2061: 구문 오류: 식별자 'TreeNode'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(42,1): error C2059: 구문 오류: '}'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2081: 'TreeNode': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,60): error C2059: 구문 오류: '형식'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,71): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2059: 구문 오류: ';'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,30): error C2059: 구문 오류: '<parameter-list>'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Globals.h(68,16): error C2059: 구문 오류: '상수'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Globals.h(107,5): error C2061: 구문 오류: 식별자 'TokenType'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Globals.h(162,1): error C2059: 구문 오류: '}'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(32,27): error C2146: 구문 오류: ')'이(가) 'token' 식별자 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(32,27): error C2061: 구문 오류: 식별자 'token'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(32,27): error C2059: 구문 오류: ';'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(32,32): error C2059: 구문 오류: ','
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(32,52): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(40,24): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(40,24): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(40,30): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(48,9): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(56,9): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.h(64,9): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Parse.h(22,9): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(28,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(28,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(28,51): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(34,30): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(34,30): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(35,7): error C2059: 구문 오류: '형식'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(39,31): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(39,31): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(39,43): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(42,30): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(42,30): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(42,42): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(45,26): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(45,26): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(45,32): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(51,50): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(51,50): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(51,68): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(51,76): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(58,31): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(58,31): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(58,43): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(59,1): error C2054: 'syntaxTree' 다음에 '('가 필요합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(87,24): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(87,24): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(87,36): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(88,1): error C2054: 'syntaxTree' 다음에 '('가 필요합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(100,17): error C2065: 'input': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(100,10): warning C4552: '*': 식의 결과가 사용되지 않습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(101,18): error C2065: 'output': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(101,10): warning C4552: '*': 식의 결과가 사용되지 않습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(102,16): error C2065: 'temp': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(102,10): warning C4552: '*': 식의 결과가 사용되지 않습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(105,8): error C2065: 'input': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(105,8): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(106,7): error C2065: 'input': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(106,9): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(107,7): error C2065: 'input': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(107,9): error C2223: '->functionReturnType' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(108,7): error C2065: 'input': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(108,9): error C2223: '->expressionType' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(111,7): error C2065: 'temp': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(111,7): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(112,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(112,8): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(113,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(113,8): error C2223: '->variableDataType' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(114,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(114,8): error C2223: '->expressionType' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(116,9): error C2065: 'output': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(116,9): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(117,8): error C2065: 'output': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(117,10): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(118,8): error C2065: 'output': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(118,10): error C2223: '->functionReturnType' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(119,8): error C2065: 'output': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(119,10): error C2223: '->expressionType' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(120,8): error C2065: 'output': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(120,10): error C2223: '->child' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(120,25): error C2065: 'temp': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(123,2): warning C4013: 'insertSymbol'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(123,29): error C2065: 'input': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(124,31): error C2065: 'output': 선언되지 않은 식별자입니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(128,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(128,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(128,51): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(129,1): error C2054: 'syntaxTree' 다음에 '('가 필요합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(260,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(280,30): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(280,30): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(281,7): error C2059: 구문 오류: '형식'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(308,50): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(308,50): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(308,68): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(308,76): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(309,1): error C2054: 'actual' 다음에 '('가 필요합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(333,31): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(333,31): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(333,43): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(334,1): error C2054: 'syntaxTree' 다음에 '('가 필요합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(574,26): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(574,26): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(574,38): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(575,1): error C2054: 'syntaxTree' 다음에 '('가 필요합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Analyse.h(575,1): error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  (소스 파일 'Main.c'을(를) 컴파일하는 중)
+  
+  Parse.c
+C:\comp\compcomp\compcomp\SymTab.h(39,5): error C2061: 구문 오류: 식별자 'TreeNode'
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(42,1): error C2059: 구문 오류: '}'
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2081: 'TreeNode': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,60): error C2059: 구문 오류: '형식'
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,71): error C2059: 구문 오류: ')'
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2059: 구문 오류: ';'
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,30): error C2059: 구문 오류: '<parameter-list>'
+  (소스 파일 'Parse.c'을(를) 컴파일하는 중)
+  
+  Scan.c
+C:\comp\compcomp\compcomp\SymTab.h(39,5): error C2061: 구문 오류: 식별자 'TreeNode'
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(42,1): error C2059: 구문 오류: '}'
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2081: 'TreeNode': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,60): error C2059: 구문 오류: '형식'
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,71): error C2059: 구문 오류: ')'
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2059: 구문 오류: ';'
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,30): error C2059: 구문 오류: '<parameter-list>'
+  (소스 파일 'Scan.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Scan.c(223,15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SymTab.c
+C:\comp\compcomp\compcomp\SymTab.h(39,5): error C2061: 구문 오류: 식별자 'TreeNode'
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(42,1): error C2059: 구문 오류: '}'
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2081: 'TreeNode': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,60): error C2059: 구문 오류: '형식'
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,71): error C2059: 구문 오류: ')'
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2059: 구문 오류: ';'
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,30): error C2059: 구문 오류: '<parameter-list>'
+  (소스 파일 'SymTab.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.c(53,20): error C2061: 구문 오류: 식별자 'hashtable'
+C:\comp\compcomp\compcomp\SymTab.c(53,20): error C2059: 구문 오류: ';'
+C:\comp\compcomp\compcomp\SymTab.c(53,30): error C2059: 구문 오류: '['
+C:\comp\compcomp\compcomp\SymTab.c(56,20): error C2061: 구문 오류: 식별자 'secondList'
+C:\comp\compcomp\compcomp\SymTab.c(56,20): error C2059: 구문 오류: ';'
+C:\comp\compcomp\compcomp\SymTab.c(70,20): error C2061: 구문 오류: 식별자 'allocateSymbolNode'
+C:\comp\compcomp\compcomp\SymTab.c(70,20): error C2059: 구문 오류: ';'
+C:\comp\compcomp\compcomp\SymTab.c(70,43): error C2059: 구문 오류: '<parameter-list>'
+C:\comp\compcomp\compcomp\SymTab.c(84,43): error C2146: 구문 오류: ')'이(가) 'cursor' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\SymTab.c(84,43): error C2061: 구문 오류: 식별자 'cursor'
+C:\comp\compcomp\compcomp\SymTab.c(84,43): error C2059: 구문 오류: ';'
+C:\comp\compcomp\compcomp\SymTab.c(84,49): error C2059: 구문 오류: ')'
+C:\comp\compcomp\compcomp\SymTab.c(94,21): error C2065: 'hashtable': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(94,12): warning C4022: 'memset': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\comp\compcomp\compcomp\SymTab.c(94,44): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(95,16): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(95,16): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\SymTab.c(103,17): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(103,17): error C2146: 구문 오류: ';'이(가) 'newHashNode' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\SymTab.c(103,28): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(103,34): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(122,21): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(122,23): warning C4013: 'allocateSymbolNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\comp\compcomp\compcomp\SymTab.c(123,25): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(123,25): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\SymTab.c(125,18): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(125,30): error C2065: 'hashtable': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(125,29): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(126,23): error C2065: 'hashtable': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(126,22): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(126,48): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(127,24): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(127,26): error C2223: '->next' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(127,37): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(131,21): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(132,25): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(132,25): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\SymTab.c(134,18): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(134,30): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(135,24): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(135,37): error C2065: 'newHashNode': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(136,23): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(136,25): error C2223: '->next' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(136,36): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(150,17): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(150,17): error C2146: 구문 오류: ';'이(가) 'cursor' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\SymTab.c(150,23): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(153,12): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(153,24): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(155,20): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(155,20): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\SymTab.c(156,27): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(156,29): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(156,14): error C2198: 'strcmp': 호출에 인수가 너무 적습니다.
+C:\comp\compcomp\compcomp\SymTab.c(158,32): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(158,34): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(158,13): error C2198: 'strcmp': 호출에 인수가 너무 적습니다.
+C:\comp\compcomp\compcomp\SymTab.c(161,20): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(161,28): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(161,30): error C2223: '->next' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(168,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+C:\comp\compcomp\compcomp\SymTab.c(168,13): error C2059: 구문 오류: ';'
+C:\comp\compcomp\compcomp\SymTab.c(168,30): error C2059: 구문 오류: '<parameter-list>'
+C:\comp\compcomp\compcomp\SymTab.c(202,17): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(202,17): error C2146: 구문 오류: ';'이(가) 'cursor' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\SymTab.c(202,23): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(204,12): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(204,24): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(207,17): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(207,17): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\SymTab.c(207,58): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(207,60): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(207,30): error C2198: 'strcmp': 호출에 인수가 너무 적습니다.
+C:\comp\compcomp\compcomp\SymTab.c(208,9): warning C4013: 'dumpCurrentScope2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\comp\compcomp\compcomp\SymTab.c(208,33): error C2065: 'cursor': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(213,43): error C2146: 구문 오류: ')'이(가) 'cursor' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\SymTab.c(213,43): error C2061: 구문 오류: 식별자 'cursor'
+C:\comp\compcomp\compcomp\SymTab.c(213,43): error C2059: 구문 오류: ';'
+C:\comp\compcomp\compcomp\SymTab.c(213,49): error C2059: 구문 오류: ')'
+C:\comp\compcomp\compcomp\SymTab.c(214,1): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\comp\compcomp\compcomp\SymTab.c(239,1): error C2059: 구문 오류: '}'
+C:\comp\compcomp\compcomp\SymTab.c(270,17): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(270,17): error C2146: 구문 오류: ';'이(가) 'hashPtr' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\SymTab.c(270,24): error C2065: 'hashPtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(271,17): error C2065: 'HashNodePtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(271,17): error C2146: 구문 오류: ';'이(가) 'temp' 식별자 앞에 없습니다.
+C:\comp\compcomp\compcomp\SymTab.c(271,21): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(274,24): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(274,24): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\SymTab.c(275,45): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(275,47): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(275,13): error C2198: 'strcmp': 호출에 인수가 너무 적습니다.
+C:\comp\compcomp\compcomp\SymTab.c(278,45): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(278,47): error C2223: '->name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(278,22): error C2198: 'hashFunction': 호출에 인수가 너무 적습니다.
+C:\comp\compcomp\compcomp\SymTab.c(279,17): error C2065: 'hashPtr': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(279,29): error C2065: 'hashtable': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(279,28): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\comp\compcomp\compcomp\SymTab.c(288,9): warning C4013: 'assert'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\comp\compcomp\compcomp\SymTab.c(288,28): error C2065: 'secondList': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(288,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\comp\compcomp\compcomp\SymTab.c(288,51): error C2065: 'hashtable': 선언되지 않은 식별자입니다.
+C:\comp\compcomp\compcomp\SymTab.c(288,51): error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  Util.c
+C:\comp\compcomp\compcomp\SymTab.h(39,5): error C2061: 구문 오류: 식별자 'TreeNode'
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(42,1): error C2059: 구문 오류: '}'
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2081: 'TreeNode': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,60): error C2059: 구문 오류: '형식'
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(67,71): error C2059: 구문 오류: ')'
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2061: 구문 오류: 식별자 'lookupSymbol'
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,13): error C2059: 구문 오류: ';'
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\SymTab.h(89,30): error C2059: 구문 오류: '<parameter-list>'
+  (소스 파일 'Util.c'을(를) 컴파일하는 중)
+  
+C:\comp\compcomp\compcomp\Util.c(330,30): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
